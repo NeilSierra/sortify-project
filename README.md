@@ -129,22 +129,22 @@ python main.py
 sortify/
 │
 ├── docs/
-│   └── Sortify Documentation.docx     # Detailed technical documentation
+│   └── Sortify Documentation.docx      # Detailed technical documentation
 │
 ├── src/                                # Main application directory
 │   ├── images/                         # Application graphics
-│   │   ├── sortify-logo.ico          # Window icon
-│   │   └── sortify-logo.png          # UI logo
+│   │   ├── sortify-logo.ico            # Window icon
+│   │   └── sortify-logo.png            # UI logo
 │   │
 │   ├── package/                        # Core application modules
-│   │   ├── functions.py              # Business logic and file operations
-│   │   └── widgets.py                # User interface components
+│   │   ├── functions.py                # Business logic and file operations
+│   │   └── widgets.py                  # User interface components
 │   │
-│   ├── main.py                        # Application entry point
-│   └── Sortify.exe                    # Compiled Windows executable
+│   ├── main.py                         # Application entry point
+│   └── Sortify.exe                     # Compiled Windows executable
 │
 ├── test/
-│   └── Test Cases.mp4                 # Video demonstration
+│   └── Test Cases.mp4                  # Video demonstration
 │
 └── README.md                           # This file
 ```
