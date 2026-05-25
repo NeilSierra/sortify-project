@@ -2,7 +2,6 @@
 
 ![Version](https://img.shields.io/badge/version-1.0-blue.svg)
 ![Python](https://img.shields.io/badge/python-3.7+-green.svg)
-![License](https://img.shields.io/badge/license-MIT-orange.svg)
 
 A powerful desktop application designed to help you organize your files efficiently and eliminate duplicate files. Built with Python and Tkinter, it provides an intuitive graphical interface for managing large collections of files across your computer.
 
